@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/zETZHAE.png" alt="Logo">
   </a>
 
-  <p align="center">
+  <!-- <p align="center">
     The fastest and most secure todo app!
     <br/>
     <br/>
@@ -14,7 +14,7 @@
     <a href="https://github.com/ivancernja/t/issues">Report a Bug</a>
     or
     <a href="https://github.com/ivancernja/t/issues">Request a Feature</a>
-  </p>
+  </p> -->
 </p>
 
 ![Contributors](https://img.shields.io/github/contributors/ivancernja/t?color=dark-green) ![Issues](https://img.shields.io/github/issues/ivancernja/t) ![License](https://img.shields.io/github/license/ivancernja/t) 
