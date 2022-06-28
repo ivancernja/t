@@ -54,15 +54,11 @@ Here's why:
 
 ## Built With
 
-Rust! And nothing more.
+Rust! And nothing else.
 
 ## Getting Started
 
-In orde to use the blazing fast and insanely secure `t`, you can use one of the following two methods:
-
-### Installation
-
-Install it via:
+In order to use the blazing fast and insanely secure `t`, you can use one of the following two methods:
 
 ```sh
 cargo install t
@@ -120,7 +116,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ivancernja/t
 ## Authors
 
 * **Ivan Cernja** - *Aspiring Rust developer* - [Ivan Cernja](https://github.com/ivancernja/) - *the creator!*
-
-## Acknowledgements
-
-* [Ivan Cernja](https://github.com/ivancernja/)
