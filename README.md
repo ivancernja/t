@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ivancernja/t">
-    <img src="https://i.imgur.com/zETZHAE.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/zETZHAE.png" alt="Logo" width="21" height="80">
   </a>
 
   <p align="center">
