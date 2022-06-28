@@ -11,9 +11,9 @@
     <a href="https://github.com/ivancernja/t"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/ivancernja/t">View Demo</a>
-    <a href="https://github.com/ivancernja/t/issues">Report Bug</a>
-    <a href="https://github.com/ivancernja/t/issues">Request Feature</a>
+    <a href="https://github.com/ivancernja/t/issues">Report a Bug</a>
+    or
+    <a href="https://github.com/ivancernja/t/issues">Request a Feature</a>
   </p>
 </p>
 
@@ -36,17 +36,21 @@
 
 ![Screen Shot](https://i.imgur.com/ufDlOKo.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The first open-source project I've built on my road to transition from a project manager to a software developer!
+
+Even though I lack experience when it comes to building technically-exciting products, I don't lack the experience to oversell
+something not that exciting.
+
+So here we go; `t` is the most minimal todo cli app out there and I wouldn't be lying when I'd say that it's:
+* The fastest
+* The most secure
+* The easiest
 
 Here's why:
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+* It has barely any lines of code + it being rust, it compiles fast!
+* It uses a local `.json` file which is secure because it's on your drive!
+* It has merely three commands, come on.
 
 ## Built With
 
