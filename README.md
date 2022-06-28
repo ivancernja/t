@@ -48,7 +48,7 @@ So here we go; `t` is the most minimal todo cli app out there and I wouldn't be 
 
 Here's why:
 
-* It has barely any lines of code + it being rust, it compiles fast!
+* It has barely any lines of code + it being written in Rust, it compiles fast!
 * It uses a local `.json` file which is secure because it's on your drive!
 * It has merely three commands, come on.
 
