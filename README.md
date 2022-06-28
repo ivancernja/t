@@ -1,10 +1,8 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ivancernja/t">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/zETZHAE.png" alt="Logo" width="150" height="150">
   </a>
-
-  <h3 align="center">t</h3>
 
   <p align="center">
     The fastest and most secure todo app!
@@ -14,14 +12,12 @@
     <br/>
     <br/>
     <a href="https://github.com/ivancernja/t">View Demo</a>
-    .
     <a href="https://github.com/ivancernja/t/issues">Report Bug</a>
-    .
     <a href="https://github.com/ivancernja/t/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/ivancernja/t?color=dark-green) ![Issues](https://img.shields.io/github/issues/ivancernja/t) ![License](https://img.shields.io/github/license/ivancernja/t) 
+![Contributors](https://img.shields.io/github/contributors/ivancernja/t?color=dark-green) ![Issues](https://img.shields.io/github/issues/ivancernja/t) ![License](https://img.shields.io/github/license/ivancernja/t) 
 
 ## Table Of Contents
 
@@ -38,7 +34,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://i.imgur.com/ufDlOKo.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
