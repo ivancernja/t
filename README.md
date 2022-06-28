@@ -1,44 +1,128 @@
-<h1 align="center"><img src="https://i.imgur.com/qOUOBvd.png"></img>
-<h1 align="center">Welcome to t 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/t" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/t.svg">
+<br/>
+<p align="center">
+  <a href="https://github.com/ivancernja/t">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <a href="https://github.com/ivancernja" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://twitter.com/cernjai" target="_blank">
-    <img alt="Twitter: cernjai" src="https://img.shields.io/twitter/follow/cernjai.svg?style=social" />
-  </a>
+
+  <h3 align="center">t</h3>
+
+  <p align="center">
+    The fastest and most secure todo app!
+    <br/>
+    <br/>
+    <a href="https://github.com/ivancernja/t"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/ivancernja/t">View Demo</a>
+    .
+    <a href="https://github.com/ivancernja/t/issues">Report Bug</a>
+    .
+    <a href="https://github.com/ivancernja/t/issues">Request Feature</a>
+  </p>
 </p>
 
-> The fastest and most secure todo app on the planet!
+![Contributors](https://img.shields.io/github/contributors/ivancernja/t?color=dark-green) ![Issues](https://img.shields.io/github/issues/ivancernja/t) ![License](https://img.shields.io/github/license/ivancernja/t) 
 
-## Install
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+![Screen Shot](images/screenshot.png)
+
+There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+
+Here's why:
+
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should element DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+## Built With
+
+Rust! And nothing more.
+
+## Getting Started
+
+In orde to use the blazing fast and insanely secure `t`, you can use one of the following two methods:
+
+### Installation
+
+Install it via:
 
 ```sh
 cargo install t
 ```
+or clone the repo and simply run:
+
+```sh
+cargo run
+```
 
 ## Usage
 
+Create a new todo:
+
 ```sh
-t
+t add "<content>"
 ```
 
-## Author
+Get the list of all of your todos:
 
-👤 **Ivan Cernja**
+```sh
+t list
+```
 
-* Website: cernja.com
-* Twitter: [@cernjai](https://twitter.com/cernjai)
-* Github: [@ivancernja](https://github.com/ivancernja)
-* LinkedIn: [@cernja](https://linkedin.com/in/cernja)
+Delete a todo:
 
-## 🤝 Contributing
+```sh
+t delete <id>
+```
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ivancernja/t/issues). 
+## Roadmap
 
-## Show your support
+See the [open issues](https://github.com/ivancernja/t/issues) for a list of proposed features (and known issues).
 
-Give a ⭐️ if this project helped you!
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ivancernja/t/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/ivancernja/t/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/ivancernja/t/blob/main/LICENSE.md) for more information.
+
+## Authors
+
+* **Ivan Cernja** - *Aspiring Rust developer* - [Ivan Cernja](https://github.com/ivancernja/) - *Built version 1!*
+
+## Acknowledgements
+
+* [Ivan Cernja](https://github.com/ivancernja/)
+* []()
+* []()
