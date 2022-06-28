@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/ivancernja/t?color=dark-green) ![Issues](https://img.shields.io/github/issues/ivancernja/t) ![License](https://img.shields.io/github/license/ivancernja/t) 
+![Contributors](https://img.shields.io/github/ivancernja/t?color=dark-green) ![Issues](https://img.shields.io/github/issues/ivancernja/t) ![License](https://img.shields.io/github/license/ivancernja/t) 
 
 ## Table Of Contents
 
@@ -119,10 +119,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ivancernja/t
 
 ## Authors
 
-* **Ivan Cernja** - *Aspiring Rust developer* - [Ivan Cernja](https://github.com/ivancernja/) - *Built version 1!*
+* **Ivan Cernja** - *Aspiring Rust developer* - [Ivan Cernja](https://github.com/ivancernja/) - *the creator!*
 
 ## Acknowledgements
 
 * [Ivan Cernja](https://github.com/ivancernja/)
-* []()
-* []()
